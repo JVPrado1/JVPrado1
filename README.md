@@ -6,7 +6,7 @@ Sou uma pessoa proativa e colaborativa, com facilidade para trabalhar em equipe 
 
 Também sou flexível e aberto a novas tecnologias, adaptando-me com facilidade às necessidades de cada projeto.
 
-[📄 Ver CV](https://portfoliodev-pink.vercel.app/curriculo-joao.pdf)
+[📄Ver CV](https://portfoliodev-pink.vercel.app/curriculo-joao.pdf)
 
 ---
 
