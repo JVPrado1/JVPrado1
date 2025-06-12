@@ -1,4 +1,4 @@
-# 👨‍🏫 João Victor Prado
+# 💻 João Victor Prado
 
 ### Desenvolvedor Full Stack & Professor
 
