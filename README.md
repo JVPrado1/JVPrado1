@@ -4,11 +4,11 @@
 
 Sou Desenvolvedor Full Stack e professor com experiência em **Robótica, Educação Digital, Música e Arte**, unindo tecnologia e criatividade para uma abordagem multidisciplinar no ensino.
 
-Trabalho com tecnologias como **React, Node.js, Next.js, Astro, Express para APIs REST, MongoDB/PostgreSQL, TypeScript e TailwindCSS**, com flexibilidade para adaptar ferramentas conforme as necessidades do projeto.
+Sou uma pessoa proativa e colaborativa, com facilidade para trabalhar em equipe e alinhar objetivos. Estou sempre em busca de me atualizar, aplicando metodologias ágeis para melhorar processos e aumentar a eficiência nas entregas.
 
-Tenho conhecimento de **versionamento com Git, uso de containers com Docker, design e prototipação com Figma**, e comunicação eficiente em equipes via **Slack**.
+Também sou flexível e aberto a novas tecnologias, adaptando-me com facilidade às necessidades de cada projeto.
 
-[📄 Baixar CV](https://portfoliodev-pink.vercel.app/curriculo-joao.pdf) <!-- Substitua o # pelo link do seu CV -->
+[📄 Baixar CV](https://portfoliodev-pink.vercel.app/curriculo-joao.pdf)
 
 ---
 
