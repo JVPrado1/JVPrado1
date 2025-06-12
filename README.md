@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👨‍🏫 João Victor Prado
 
-<!--
-**JVPrado1/JVPrado1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full Stack & Professor
 
-Here are some ideas to get you started:
+Sou Desenvolvedor Full Stack e professor com experiência em **Robótica, Educação Digital, Música e Arte**, unindo tecnologia e criatividade para uma abordagem multidisciplinar no ensino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Trabalho com tecnologias como **React, Node.js, Next.js, Astro, Express para APIs REST, MongoDB/PostgreSQL, TypeScript e TailwindCSS**, com flexibilidade para adaptar ferramentas conforme as necessidades do projeto.
+
+Tenho conhecimento de **versionamento com Git, uso de containers com Docker, design e prototipação com Figma**, e comunicação eficiente em equipes via **Slack**.
+
+[📄 Baixar CV](https://portfoliodev-pink.vercel.app/curriculo-joao.pdf) <!-- Substitua o # pelo link do seu CV -->
+
+---
+
+### 🚀 Principais Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="30" />
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight)
+
+---
+
+### 📫 Entre em contato
+
+- [LinkedIn](https://linkedin.com/in/jvprado1)  
+- [Email](mailto:jv_prado@outlook.com)
