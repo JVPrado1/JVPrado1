@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack & Professor
 
-Sou Desenvolvedor Full Stack e professor com experiência em **Robótica, Educação Digital, Música e Arte**, unindo tecnologia e criatividade para uma abordagem multidisciplinar no ensino.
+Desenvolvedor Full Stack e professor com experiência em **Robótica, Educação Digital, Música e Arte**, unindo tecnologia e criatividade para uma abordagem multidisciplinar no ensino.
 
 Sou uma pessoa proativa e colaborativa, com facilidade para trabalhar em equipe e alinhar objetivos. Estou sempre em busca de me atualizar, aprendendo novas ferramentas e aplicando metodologias ágeis para melhorar processos e aumentar a eficiência nas entregas.
 
