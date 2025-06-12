@@ -18,6 +18,7 @@ Tenho conhecimento de **versionamento com Git, uso de containers com Docker, des
 
 ---
 
+
 ### 📊 Estatísticas do GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight)
