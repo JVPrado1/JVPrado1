@@ -24,19 +24,7 @@ Tenho conhecimento de **versionamento com Git, uso de containers com Docker, des
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" />
           
 </p>
-          
-
-          
-
----
-
-
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JVPrado1&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVPrado1&layout=compact&theme=tokyonight)
-
+                  
 ---
 
 ### 📫 Entre em contato
