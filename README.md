@@ -1,6 +1,7 @@
 # 💻 João Victor Prado
 
-🖥️ Desenvolvedor Full Stack & Professor&nbsp;
+🖥️ Desenvolvedor Full Stack & Professor
+
 📍 Jaú - SP, Brasil
 
 Atuo no desenvolvimento de soluções digitais e na educação, com experiência em Robótica, Educação Digital, Música e Arte — unindo tecnologia e criatividade para uma abordagem multidisciplinar e inovadora.
