@@ -5,7 +5,7 @@
 
 Atuo no desenvolvimento de soluções digitais e na educação, com experiência em Robótica, Educação Digital, Música e Arte — unindo tecnologia e criatividade para uma abordagem multidisciplinar e inovadora.
 
-Tenho perfil proativo, colaborativo e facilidade para alinhar objetivos em equipe, estando em constante evolução ao aprender novas ferramentas e aplicar metodologias ágeis para otimizar processos e melhorar a eficiência nas entregas. Sou flexível e me adapto facilmente a diferentes tecnologias e contextos.
+Tenho perfil proativo, colaborativo e facilidade para alinhar objetivos em equipe, estando em constante evolução ao aprender novas ferramentas e aplicar metodologias ágeis para otimizar processos e melhorar a eficiência nas entregas. Sou versátil e me adapto com facilidade a diferentes tecnologias e contextos, conforme a necessidade do projeto.
 
 [📄 Ver CV](https://portfoliodev-pink.vercel.app/curriculo-joao.pdf)
 
